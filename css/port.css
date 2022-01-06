@@ -416,7 +416,7 @@ footer{
 @media screen and (max-width:767px){
 				footer{
 				clip-path: polygon(0 0,10% 0,12.5% 2%,85% 2%,87.5% 0,100% 0,100% 100%,0 100%); 
-				margin-top: -5%;
+				margin-top: -10%;
 				//height: 65em;
 				display: flex;
 				flex-direction: column;
