@@ -11,7 +11,7 @@ html, body{
 				font-size: 90%;
 				font-family: Sans-Serif;
 				line-height: 150%;
-				
+				scroll-behavior: smooth;
 }
 .hide{
 				display: none;
