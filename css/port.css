@@ -13,6 +13,9 @@ html, body{
 				line-height: 150%;
 				scroll-behavior: smooth;
 }
+html:focus-within{
+				scroll-behavior: smooth;
+}
 .hide{
 				display: none;
 }
@@ -292,7 +295,8 @@ nav a{
 .tech{
 		
 				background: #dfd5ff;
-				min-height: 52.5em;
+				min-height: 65em;
+				padding-bottom: 10em;
 }
 .tech h4{
 				width: 100%;
@@ -363,7 +367,7 @@ h5{
 }
 @media screen and (max-width: 1023px){
 				.collab{
-				clip-path: polygon(0 0,10% 0,15% 2.5%,85% 2.5%,90% 0,100% 0,100% 100%,0 100%); 
+				clip-path: polygon(0 0,10% 0,15% 1.75%,85% 1.75%,90% 0,100% 0,100% 100%,0 100%); 
 				} 
 }
 .cont{
